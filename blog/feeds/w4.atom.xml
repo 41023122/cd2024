@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41023122協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T06:47:56+08:00</updated><entry><title>2024 Spring 課程 w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-22T06:47:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;教學影片分組整理並自評:&lt;/p&gt;
+&lt;p&gt;w4 2a 分組任務
+請各組自行搜尋前面已經發布的教學影片, 分別
+1.在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
+2.從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
+3.並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
+&lt;p&gt;個人被分配:
+P建立個人課程 cd2024 倉儲與網站的操作影片}與{a_1_blog_setup}
+利用快速於Youtube後台上字幕 | 語音轉文字 | 多國字幕翻譯 | 自動提取字幕SRT檔{https://www.youtube.com/watch?v=W6EhGwHBfoc}裡面的https://github.com/raryelcostasouza/pyTranscriber/releases，轉出SRT檔，並且導Youtube做修正&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>

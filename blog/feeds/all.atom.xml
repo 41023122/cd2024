@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41023122協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-02-23T09:13:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-02-23T09:13:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41023122協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T06:47:56+08:00</updated><entry><title>2024 Spring 課程 w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-22T06:47:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;教學影片分組整理並自評:&lt;/p&gt;
+&lt;p&gt;w4 2a 分組任務
+請各組自行搜尋前面已經發布的教學影片, 分別
+1.在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
+2.從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
+3.並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
+&lt;p&gt;個人被分配:
+P建立個人課程 cd2024 倉儲與網站的操作影片}與{a_1_blog_setup}
+利用快速於Youtube後台上字幕 | 語音轉文字 | 多國字幕翻譯 | 自動提取字幕SRT檔{https://www.youtube.com/watch?v=W6EhGwHBfoc}裡面的https://github.com/raryelcostasouza/pyTranscriber/releases，轉出SRT檔，並且導Youtube做修正&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-22T06:47:25+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作.&lt;/p&gt;
+&lt;p&gt;上課內容:
+1.說明如何將 41123130 的個人倉儲設為 2a-midag2 分組倉儲的子模組
+2.說明如何將組員的個人倉儲納入分組倉儲成為子模組
+3.說明如何在 Replit 維護分組倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-02-23T09:13:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
