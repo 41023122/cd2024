@@ -319,7 +319,6 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <div style="width: 100%; height: 100%;"><textarea autocomplete="off" id="kw_console2"></textarea></div>
 <p><!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --></p>
 <div id="brython_div2"></div>
-<div id="brython_div2">
 <h1>w4教學影片分組整理</h1>
 <p>建立個人課程倉儲與網站</p>
 <p>影片:</p>
@@ -339,5 +338,36 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p></p>
 <p></p>
 <p></p>
+<h1>w10w2</h1>
 <p></p>
-<p></p></div>
+<p><span>論文一：Construction and theoretical study of a ball balancing platform</span></p>
+<p>來源:monica</p>
+<p><span>結論：</span></p>
+<p>1.通過物理構建一個作為理論演示器的裝置，進一步比較從牛頓力學中得出的實際物理和計算機模擬結果。為了進行比較，需要設計一個能夠滿足系統設定要求的滿意控制器。引入了一種比例-積分-微分控制器，用於平衡平板上的球，並進一步進行分析以確定穩定自然不穩定或半穩定系統時的限制，並研究這些限制與理論期望之間的差異。</p>
+<p>2.論文中應用的控制方式是線性的，僅能在線性控制範圍內正常運作。使用標準元件和微控制器，構建了一個能夠在平台上保持球的裝置。通過使用Arduino庫和開源代碼進行編程。因此，從研究的角度來看，看看這個裝置是否能夠在線性控制領域內正常運作。</p>
+<p>3.總結來說，這篇論文首先將涵蓋通過計算機輔助程序建立的球在平台上的理論模型，然後將理論結果與從實際構建中獲得的結果進行比較。進一步研究控制理論和系統實施時出現差異的原因。</p>
+<p><span></span></p>
+<p><span>論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation</span></p>
+<p><span>來源:</span><span>PDF Chat</span></p>
+<p><span>結論：这篇论文提出了一种新的PID调节器解决方案，旨在提高实时调节平台上球位置准确性的科学和实际问题。通过在FPGA上实现PID调节器并进行并行计算，成功开发了一种平衡平台上球位置的PID调节器。自然模拟验证了在平台上调节球位置准确性的提高。这项研究对于控制高速对象、具有多个受控参数的对象具有重要意义，为实时控制系统的发展提供了有益的见解。</span></p>
+<p><span></span></p>
+<p><span>論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach</span></p>
+<p><span>來源:monica</span></p>
+<p><span>結論：</span></p>
+<p>1.這項研究提供了三種控制結構的詳細設計和比較，用於自動穩定球在平板上的位置和球軌跡追踪：PD控制器、狀態空間反饋和狀態空間觀測器與狀態空間反饋。這三種方法都經過設計並進行實際比較。</p>
+<p>2.所有結構具有一個共同特點，即計算控制器參數的方法論。文中還包括由牛頓方法推導的球在平板上的數學模型和直流電機位置迴路控制。</p>
+<p>3.這項研究為作者提供了一個機會，創建一個教育性設置，向非技術人員解釋基本控制系統的原則，並激勵未來的學生。</p>
+<p><span></span></p>
+<p><span>論文四</span><span>：Design and Implementation a Ball Balancing System for Control Theory Course</span></p>
+<p><span>結論：monica</span></p>
+<p>1.是否可以僅通過線性控制設計和構建一個滿足要求的球平衡平台？<br/>結果取決於對“滿足要求”如何定義。研究中將滿足要求定義為第3章中設定的系統要求。結果與要求之間的比較確認，物理模型在解決時間方面滿意，但靜態誤差不滿意。關於超調，並沒有觀察到足夠準確的情況，因此無法進一步討論。</p>
+<p>2.從理論模擬和實驗結果來看，造成這些差異的因素是什麼？<br/>導致模擬和實際結果之間差異的因素主要是建構錯誤。無法預見和在模擬中模仿這些錯誤也不能忽視。因此，應該採取必要措施並鼓勵減少這些錯誤，如果要構建這種性質的結構。</p>
+<p>3.在穩定自然不穩定或半穩定系統時的性能限制是什麼，這些與理論預期有何不同？<br/>在構建一個完全功能的球平衡平台後，項目中的一些見解可能有助於回答上述問題。</p>
+<p><span></span></p>
+<p><span>論文五</span><span>：Ball on the plate balancing control system</span></p>
+<p><span>來源:</span></p>
+<p><span>結論：这篇论文描述了一个球平衡实验台的设计，该实验台可用于测试稳定和平衡控制算法，这对于海洋船舶和航空器等应用可能至关重要。基于微控制器的控制系统跟踪电阻触摸屏上的球位置，并计算位置误差，即球坐标相对于电阻玻璃中心点的位移。带有位置传感器的步进电机允许控制系统改变平台与电阻玻璃的倾斜角度，从而移动桌上的球。具有各种PID控制器的微控制器双环次级控制系统可维持球在电阻面板中心点。</span></p>
+<p><span></span></p>
+<p><span>論文六：2D Ball Balancer Control using QUARC</span></p>
+<p><span>來源:</span><span>PDF Chat</span></p>
+<p><span>結論：在這份研究中，我們成功地展示了如何使用QUARC控制2D平衡球平衡器。通過從第一原理建模系統並設計PID控制器，我們實現了穩定球的位置在平衡板上的目標。透過模擬和實際實驗，我們驗證了控制系統的有效性和性能。此外，我們探討了控制技術中的一些重要概念，如設定點權重和積分器反飽和，進一步豐富了我們對控制系統的理解。這項研究為控制工程領域提供了有價值的見解，並為未來相關研究提供了基礎。</span></p>
