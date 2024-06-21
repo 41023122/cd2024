@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41023122協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-06T05:59:35+08:00</updated><entry><title>2024 Spring 課程 w11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-06T05:58:39+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41023122協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-18T05:46:51+08:00</updated><entry><title>2024 Spring 課程 w17</title><link href="./2024-Spring-w17-blog-tutorial.html" rel="alternate"></link><published>2024-06-14T11:00:00+08:00</published><updated>2024-06-18T05:46:51+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-06-14:./2024-Spring-w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;cd2024 w17 學期成績自評表&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;cd2024 w17 學期成績自評表&lt;/p&gt;
+
+&lt;p&gt;請利用 NX1872, 完成可以參與球賽競技的機器人零件與組立件設計, 過程中請拍攝零組件繪製過程, 以 "cd2024 協同產品設計實習期末實習評量項目一, 學號 XXXXXXX" 作為 mp4 影片標題, 上傳至 Youtube 後, 在個人靜態網站中新增標題為 "w17", 格式為 H1 的頁面, 嵌入所完成的項目一 Youtube 影片以及所完成的零組件檔案連結後, 將此網頁網址 (即 https://個人_github帳號.github.io/cd2024/w17) 提交連結回報至評量回傳表的對應欄位中.&lt;/p&gt;
+&lt;p&gt;請自選上列項目一中某一零件組立過程, 以 NXOpen Python 程式完成組立, 過程中請拍攝 Python Journal 程式組立過程, 以"cd2024 協同產品設計實習期末實習評量項目二, 學號 XXXXXXX" 作為 mp4 影片標題, 上傳至 Youtube 後, 在 "w17" 頁面中嵌入所完成的項目二 Youtube 影片以及所完成的 Python Journal 程式檔案連結 (請放入 downloads 目錄, 並以 .txt 作為副檔名), 將此網頁網址 (即 https://個人_github帳號.github.io/cd2024/w17) 提交連結回報至評量回傳表的對應欄位中.&lt;/p&gt;
+&lt;p&gt;請將所完成的機器人球員放入 CoppeliaSim 運動場景中 (即 https://mde.tw/cd2024/content/index.html 網頁中的 cd2024_footbasketball_field_specification_step2.7z 場景), 讓球員可以由 ZMQ Remote API 程式控制, 執行後按下 w 鍵後球員可向前移動, 按下 s 後球員可向後移動, 過程中請拍攝 Python 程式執行與球員前後移動過程, 以"cd2024 協同產品設計實習期末實習評量項目三, 學號 XXXXXXX" 作為 mp4 影片標題", 上傳至 Youtube 後, 在 "w17" 頁面中嵌入所完成的項目三 Youtube 影片、場景 .ttt 連結以及所完成的 ZMQ Remote API Python 程式檔案連結 (請放入 downloads 目錄, 並以 .txt 作為副檔名), 將此網頁網址 (即 https://個人_github帳號.github.io/cd2024/w17) 提交連結回報至評量回傳表的對應欄位中.&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w16</title><link href="./2024-Spring-w16-blog-tutorial.html" rel="alternate"></link><published>2024-06-07T11:00:00+08:00</published><updated>2024-06-07T07:21:11+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-06-07:./2024-Spring-w16-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
-&lt;p&gt;學習在團隊中建立分岔與合併，與製作w11字幕影片&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-06T05:59:35+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;自評期末狀況
+並且2周後要:
+1.利用兩周練習推個人倉儲與網站
+2.練習連接足球機器人平衡台之連接&lt;/p&gt;</content><category term="w16"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w15</title><link href="./2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T11:00:00+08:00</published><updated>2024-06-07T07:23:05+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-05-31:./2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;練習繪製nx零件圖
+完成了y_link，shaft與s_link&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w14</title><link href="./2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T11:00:00+08:00</published><updated>2024-06-07T07:23:39+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-05-24:./2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;練習繪製nx零件圖
+完成了platfora與base_w&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-06-07T07:24:06+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-05-17:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;分配組員負責任務&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-10T06:20:06+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-05-10:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;任務一
+參考教學影片w12與參考程式, 將鋼球平衡台零組件,分配繪製任務, 至少一份零件繪製的 NXOpen Python 程式及一份零件組立的 NXOpen Python 程式, 完成後, 在個人的課程網誌紀錄 w12 撰寫心得
+任務二
+將分組倉儲設為評分網站子模組&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-10T06:14:34+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;學習在團隊中建立分岔與合併，與製作w11字幕影片&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T06:14:20+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;w10w2 閱讀後，請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
@@ -34,17 +62,17 @@
 &lt;p&gt;結論：这篇论文描述了一个球平衡实验台的设计，该实验台可用于测试稳定和平衡控制算法，这对于海洋船舶和航空器等应用可能至关重要。基于微控制器的控制系统跟踪电阻触摸屏上的球位置，并计算位置误差，即球坐标相对于电阻玻璃中心点的位移。带有位置传感器的步进电机允许控制系统改变平台与电阻玻璃的倾斜角度，从而移动桌上的球。具有各种PID控制器的微控制器双环次级控制系统可维持球在电阻面板中心点。&lt;/p&gt;
 &lt;p&gt;論文六：2D Ball Balancer Control using QUARC&lt;/p&gt;
 &lt;p&gt;來源:PDF Chat&lt;/p&gt;
-&lt;p&gt;結論：在這份研究中，我們成功地展示了如何使用QUARC控制2D平衡球平衡器。通過從第一原理建模系統並設計PID控制器，我們實現了穩定球的位置在平衡板上的目標。透過模擬和實際實驗，我們驗證了控制系統的有效性和性能。此外，我們探討了控制技術中的一些重要概念，如設定點權重和積分器反飽和，進一步豐富了我們對控制系統的理解。這項研究為控制工程領域提供了有價值的見解，並為未來相關研究提供了基礎。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w9</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-06T05:59:30+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;結論：在這份研究中，我們成功地展示了如何使用QUARC控制2D平衡球平衡器。通過從第一原理建模系統並設計PID控制器，我們實現了穩定球的位置在平衡板上的目標。透過模擬和實際實驗，我們驗證了控制系統的有效性和性能。此外，我們探討了控制技術中的一些重要概念，如設定點權重和積分器反飽和，進一步豐富了我們對控制系統的理解。這項研究為控制工程領域提供了有價值的見解，並為未來相關研究提供了基礎。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w9</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-10T06:14:03+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
-&lt;p&gt;期中考&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w8</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-06T05:59:25+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-12:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;期中考&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w8</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T06:14:11+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-12:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;準備期中考&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-05-06T05:59:22+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-05:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;準備期中考&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-05-10T06:13:45+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-04-05:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
-&lt;p&gt;清明節放假&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-06T05:59:19+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;清明節放假&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-10T06:13:36+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;建立團隊與個人網誌連結&lt;/p&gt;
@@ -52,11 +80,11 @@
 git pull origin main
 cd ..
 git status
-$ git commit -m "update 41023122子模組"&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-06T05:59:13+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+$ git commit -m "update 41023122子模組"&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T06:13:22+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;整理先前影片、分組網誌的統整&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-06T05:59:07+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;整理先前影片、分組網誌的統整&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-10T06:13:07+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -68,7 +96,7 @@ $ git commit -m "update 41023122子模組"&lt;/p&gt;</content><category term="w6
 3.並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
 &lt;p&gt;個人被分配:
 P建立個人課程 cd2024 倉儲與網站的操作影片}與{a_1_blog_setup}
-利用快速於Youtube後台上字幕 | 語音轉文字 | 多國字幕翻譯 | 自動提取字幕SRT檔{https://www.youtube.com/watch?v=W6EhGwHBfoc}裡面的https://github.com/raryelcostasouza/pyTranscriber/releases，轉出SRT檔，並且導Youtube做修正&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-06T05:59:00+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+利用快速於Youtube後台上字幕 | 語音轉文字 | 多國字幕翻譯 | 自動提取字幕SRT檔{https://www.youtube.com/watch?v=W6EhGwHBfoc}裡面的https://github.com/raryelcostasouza/pyTranscriber/releases，轉出SRT檔，並且導Youtube做修正&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T06:12:56+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -76,14 +104,14 @@ P建立個人課程 cd2024 倉儲與網站的操作影片}與{a_1_blog_setup}
 &lt;p&gt;上課內容:
 1.說明如何將 41123130 的個人倉儲設為 2a-midag2 分組倉儲的子模組
 2.說明如何將組員的個人倉儲納入分組倉儲成為子模組
-3.說明如何在 Replit 維護分組倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-06T05:58:56+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-01:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+3.說明如何在 Replit 維護分組倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T06:12:47+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-03-01:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;組別:midag6&lt;/p&gt;
 &lt;p&gt;利用 Github Classroom 進行協同分組, 並引導學員除了 Replit, 可以利用 Github Codespaces 維護個人或分組網站內容.
 1.利用 Github Classroom 指定分組倉儲
 2.利用 Codespaces 維護倉儲與網站
-3.在近端執行動態網站&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-06T05:58:51+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-02-23:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+3.在近端執行動態網站&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程 w1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-10T06:12:33+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-02-23:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;協同產品設計實習的教學主要介紹 OnShape、Coppeliasim 與 Odoo PLM 在機械設計流程中的應用:&lt;/p&gt;
@@ -95,7 +123,7 @@ P建立個人課程 cd2024 倉儲與網站的操作影片}與{a_1_blog_setup}
 6.Odoo PLM 功能&lt;/p&gt;
 &lt;p&gt;replit: https://replit.com/@41023122/cd2024
 重要:chmod u+x gen_blog
-網誌指令:./gen_blog&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-06T05:58:46+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+網誌指令:./gen_blog&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-10T06:12:18+08:00</updated><author><name>41023122</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
